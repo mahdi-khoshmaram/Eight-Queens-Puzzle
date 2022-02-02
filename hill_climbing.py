@@ -150,10 +150,10 @@ def exp():
 
 setup(ans)
 exp()
-print(solve[0])
+print('h= ',solve[0],'\nDesired h (h in global maxima)= 56')
 b.update()
 
-input()
+input('Enter to exit...')
 
 
 
